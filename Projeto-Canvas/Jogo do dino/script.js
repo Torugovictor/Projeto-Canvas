@@ -146,7 +146,7 @@ function RandomIntInRange (min, max) {
 
 function Start () {
   canvas.width = window.innerWidth;
-  canvas.height = window.innerHeight;
+  canvas.height = 666;
 
   ctx.font = "20px sans-serif";
 
