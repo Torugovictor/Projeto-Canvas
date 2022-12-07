@@ -1,15 +1,22 @@
-  * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
-    canvas {
-      display: block;
-    }
-    .rodape{
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  canvas {
+    display: block;
+  }
+
+  .rodape {
     font-size: larger;
     color: greenyellow;
-}
-.titulo{
+    bottom: 0;
+    position: fixed;
+    width: 90%;
+
+  }
+
+  .titulo {
     color: greenyellow;
-} 
+  }
